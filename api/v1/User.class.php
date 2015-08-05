@@ -2,5 +2,5 @@
 namespace Models;
 	
 class User {
-	public $name = 'Roxanna'; 	
+	public $name = 'Roxanna';
 }
