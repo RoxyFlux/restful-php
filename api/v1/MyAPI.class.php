@@ -1,7 +1,7 @@
 <?php
 require_once 'API.class.php';
-require_once 'User.class.php';
-require_once 'APIKey.class.php';
+require_once 'Models/User.class.php';
+require_once 'Models/APIKey.class.php';
 class MyAPI extends API
 {
     protected $User;
